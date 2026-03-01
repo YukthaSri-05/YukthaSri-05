@@ -1,67 +1,66 @@
 # Hi there 👋, I'm Nunna Yuktha Sri
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=500&lines=Results-driven+CS+Student+%7C+DevOps+%7C+Cloud+Enthusiast)
-
-## 📌 About Me
-🎓 B.Tech CSE Student at Aditya College of Engineering and Technology (2023–2027)  
-🚀 Strong foundation in Data Structures, Algorithms, Cloud Computing, and DevOps  
-🖥️ Hands-on experience with Docker, Kubernetes, Jenkins, and AWS  
-📊 Proficient in MySQL, MongoDB, and NoSQL databases  
-📚 Strong foundation in Operating Systems, DBMS, and DSA  
-🌱 Passionate about backend development, CI/CD automation, cloud infrastructure, and problem-solving  
-🤝 Experienced in mentoring and leading teams  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=500&lines=Fullstack+%26+Cloud+Developer+%7C+DevOps+Enthusiast+%7C+Problem+Solver)
 
 ---
 
-## 🛠️ Technical Skills
+## 📌 About Me
+🎓 B.Tech CSE Student at Aditya College of Engineering and Technology (2023–2027)  
+🚀 Passionate about building scalable applications, CI/CD pipelines, and cloud-native solutions  
+🖥️ Hands-on experience with AWS, Docker, Kubernetes, Jenkins, React, and Java  
+💡 Strong foundation in Data Structures, Algorithms, Operating Systems, DBMS, and Cloud Computing  
+🌱 Actively exploring advanced DevOps practices and system-level development  
+🤝 Enjoy mentoring, collaborating, and sharing knowledge  
+
+---
+
+## 🛠️ Skills & Tools
 
 **🚀 Programming Languages:**  
 Java • Python • C++ • C  
 
-**🌐 Frontend & Frameworks:**  
-HTML5 • CSS3 • JavaScript • Express.js • Spring Boot  
-
-**🧰 Tools & Platforms:**  
-VS Code • GitHub • Eclipse • SonarQube  
+**🌐 Web & Frameworks:**  
+HTML5 • CSS3 • JavaScript • Express.js • React • Spring Boot  
 
 **☁️ Cloud & DevOps:**  
 AWS • Docker • Kubernetes • Git • GitHub • Jenkins  
 
 **🗄️ Databases:**  
-SQL • NoSQL • MySQL • MongoDB • DynamoDB  
+MySQL • MongoDB • DynamoDB  
 
 **💡 Core Computer Science:**  
 DSA • DBMS • Operating Systems • Computer Networks • Software Engineering  
+
+**🧰 Tools & Platforms:**  
+VS Code • Eclipse • SonarQube • Postman • Figma  
 
 ---
 
 ## 🌟 Projects
 
-**TH-Bot — AWS Cloud-Native Chatbot System**  
-- Developed a cloud-based chatbot using React and Flask for student support automation  
-- Deployed backend architecture with AWS EC2, Lambda, API Gateway, DynamoDB  
-- Ensured secure communication using IAM-based access control  
+**TH-Bot — AWS Cloud-Native Chatbot**  
+- React + Flask chatbot automating student support services  
+- Backend deployed on AWS EC2, Lambda, API Gateway, DynamoDB  
+- Secure access using IAM roles  
 
 **Code Quality Analysis — Maven, JaCoCo & SonarQube**  
-- Developed a Java Maven application with unit testing using JUnit  
-- Generated automated code coverage reports using JaCoCo  
-- Performed static code analysis using SonarQube to identify bugs and vulnerabilities  
-- Ensured code reliability with quality gate compliance  
+- Java Maven app with JUnit unit testing  
+- Automated code coverage reports with JaCoCo  
+- Static code analysis using SonarQube, ensuring reliability  
 
-**Spring-Aws-Test-Sonar-Deploy — Spring Boot, Jenkins, SonarQube, AWS**  
-- Implemented end-to-end CI/CD pipeline automating build, testing, code analysis, and deployment  
-- Integrated SonarQube quality gates and JUnit test reporting  
-- Automated deployment to AWS EC2 using Jenkins and systemd service  
+**Spring-Aws-Test-Sonar-Deploy — CI/CD Pipeline**  
+- End-to-end automation of build, test, code analysis, and deployment  
+- Integrated SonarQube quality gates and JUnit reports  
+- Automated AWS EC2 deployment using Jenkins and systemd  
 
 ---
 
 ## 💼 Internship Experience
 
 **Technical Hub Pvt Ltd – AWS Cloud Intern** (May 2025 – Jun 2025)  
-- Managed EC2 instances with VPC networking  
-- Applied IAM roles and policies for secure access and proxy connections  
+- Managed EC2 instances with VPC networking and IAM security  
 - Explored cloud infrastructure, client-server architecture, and migration strategies  
-- Demonstrated strong learning ability and technical responsibility  
+- Gained hands-on experience with secure cloud deployments and DevOps practices  
 
 ---
 
@@ -77,7 +76,7 @@ DSA • DBMS • Operating Systems • Computer Networks • Software Engineerin
 📧 Email: yukthasrinunna@gmail.com  
 📱 Phone: +91-8639832707  
 💬 WhatsApp: +91-8639832707  
-📍 Address: Tadepalligudem, Andhra Pradesh, India – 534101  
+📍 Tadepalligudem, Andhra Pradesh, India – 534101  
 
 ---
 
@@ -97,3 +96,20 @@ DSA • DBMS • Operating Systems • Computer Networks • Software Engineerin
 
 ### 📚 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukthaSri-05&layout=compact&theme=radical)
+
+---
+
+## 🎓 Certifications & Achievements
+
+- HTML and CSS IT Specialist – Aug 2024  
+- Certified DevOps Professional – Oracle, Oct 2025  
+- Certified AI Foundations Associate – Oracle, Oct 2025  
+- Java Foundations Certified Associate – Oracle, May 2025  
+- SQL (Basic & Intermediate) – HackerRank, Feb 2025  
+- Campus Ambassador – Unstop 2025-26  
+- 1000+ coding problems solved on LeetCode, GFG, CodeChef, HackerRank  
+
+---
+
+## 🌱 Currently Learning
+ReactJS • Advanced Kubernetes • Tree & Graph Algorithms in C++  
