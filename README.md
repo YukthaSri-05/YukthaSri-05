@@ -80,31 +80,6 @@ VS Code • Eclipse • SonarQube • Postman • Figma
 
 ---
 
-## 📊 Stats & Activity
-
-### 💡 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Yuktha_sri_05)
-
-### 💻 GeeksforGeeks Stats
-![GFG Stats](https://gfg-stats.vercel.app/api?username=yukthasril9bz)
-
-### 🏆 HackerRank Stats
-![HackerRank Stats](https://www.hackerrank.com/rest/hackers/Yukthasrinunna/badges)
-
-### 🍴 CodeChef Stats
-![CodeChef Stats](https://competitive-coding-api.herokuapp.com/api/codechef/Yukthasrinunna)
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YukthaSri-05&show_icons=true&theme=radical)
-
-### Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YukthaSri-05&theme=radical)
-
-### 📚 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukthaSri-05&layout=compact&theme=radical)
-
----
-
 ## 🎓 Certifications & Achievements
 
 - HTML and CSS IT Specialist – Aug 2024  
@@ -116,6 +91,3 @@ VS Code • Eclipse • SonarQube • Postman • Figma
 - 1000+ coding problems solved on LeetCode, GFG, CodeChef, HackerRank  
 
 ---
-
-## 🌱 Currently Learning
-ReactJS • Advanced Kubernetes • Tree & Graph Algorithms in C++  
