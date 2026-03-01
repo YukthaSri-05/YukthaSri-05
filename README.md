@@ -88,6 +88,12 @@ VS Code • Eclipse • SonarQube • Postman • Figma
 ### 💻 GeeksforGeeks Stats
 ![GFG Stats](https://gfg-stats.vercel.app/api?username=yukthasril9bz)
 
+### 🏆 HackerRank Stats
+![HackerRank Stats](https://www.hackerrank.com/rest/hackers/Yukthasrinunna/badges)
+
+### 🍴 CodeChef Stats
+![CodeChef Stats](https://competitive-coding-api.herokuapp.com/api/codechef/Yukthasrinunna)
+
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YukthaSri-05&show_icons=true&theme=radical)
 
