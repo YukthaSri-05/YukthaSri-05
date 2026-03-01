@@ -5,8 +5,9 @@
 ## 📌 About Me
 🎓 B.Tech CSE Student at Aditya College of Engineering and Technology (2023–2027)  
 🚀 Strong foundation in Data Structures, Algorithms, Cloud Computing, and DevOps  
-🖥️ Hands-on experience building scalable fullstack and cloud-native applications using AWS, Jenkins, Kubernetes, Docker, JavaScript, and Java  
-💡 Developed award-winning projects like **TH-Bot** and **Spring-Aws-Test-Sonar-Deploy** leveraging AWS services and REST APIs  
+🖥️ Hands-on experience with Docker, Kubernetes, Jenkins, and AWS  
+📊 Proficient in MySQL, MongoDB, and NoSQL databases  
+📚 Strong foundation in Operating Systems, DBMS, and DSA  
 🌱 Passionate about backend development, CI/CD automation, cloud infrastructure, and problem-solving  
 🤝 Experienced in mentoring and leading teams  
 
@@ -18,16 +19,19 @@
 Java • Python • C++ • C  
 
 **🌐 Frontend & Frameworks:**  
-HTML5 • CSS3 • JavaScript • Express.js • React • Spring Boot  
+HTML5 • CSS3 • JavaScript • Express.js • Spring Boot  
+
+**🧰 Tools & Platforms:**  
+VS Code • GitHub • Eclipse • SonarQube  
 
 **☁️ Cloud & DevOps:**  
 AWS • Docker • Kubernetes • Git • GitHub • Jenkins  
 
 **🗄️ Databases:**  
-MySQL • MongoDB  
+SQL • NoSQL • MySQL • MongoDB • DynamoDB  
 
-**💻 Operating Systems:**  
-Linux  
+**💡 Core Computer Science:**  
+DSA • DBMS • Operating Systems • Computer Networks • Software Engineering  
 
 ---
 
@@ -61,48 +65,35 @@ Linux
 
 ---
 
-## 📚 Competency & Coding Profiles
+## 🔗 Coding & Social Profiles
 
-**LeetCode:** [Yuktha_sri_05](https://leetcode.com/u/Yuktha_sri_05/) – 150+ problems  
-**GeeksforGeeks:** [yukthasril9bz](https://www.geeksforgeeks.org/profile/yukthasril9bz) – 100+ DSA problems  
-**CodeChef:** [yukthasrinunna](https://www.codechef.com/users/yukthasrinunna) – 200+ problems  
-**HackerRank:** [yukthasrinunna](https://www.hackerrank.com/profile/yukthasrinunna) – 3+ stars in C, C++, Python, Java  
+### 👨‍💻 Coding Platforms
+[LeetCode](https://leetcode.com/u/Yuktha_sri_05/) • [GeeksforGeeks](https://www.geeksforgeeks.org/profile/yukthasril9bz) • [HackerRank](https://www.hackerrank.com/profile/yukthasrinunna) • [CodeChef](https://www.codechef.com/users/yukthasrinunna)  
 
----
+### 🌐 Social & Professional
+[LinkedIn](https://www.linkedin.com/in/yuktha-sri-nunna-8ab671302/) • [GitHub](https://github.com/YukthaSri-05) • [Instagram](https://www.instagram.com/yuktha_sri_nunna/)  
 
-## 🎓 Certifications
-
-- HTML and CSS IT Specialist (Aug 2024)  
-- Certified DevOps Professional – Oracle (Oct 2025)  
-- Certified AI Foundations Associate – Oracle (Oct 2025)  
-- Java Foundations Certified Associate – Oracle (May 2025)  
-- SQL (Basic & Intermediate) – HackerRank (Feb 2025)  
-- Design & Implementation of Human-Computer Interfaces – NPTEL (Jul–Oct 2025)  
-- LinkedIn Learning: Docker, Kubernetes, JavaScript, React (Feb–Dec 2025)  
+### 📞 Contact Me
+📧 Email: yukthasrinunna@gmail.com  
+📱 Phone: +91-8639832707  
+💬 WhatsApp: +91-8639832707  
+📍 Address: Tadepalligudem, Andhra Pradesh, India – 534101  
 
 ---
 
-## 🏆 Achievements
+## 📊 Stats & Activity
 
-- Campus Ambassador – Unstop Campus Ambassador Program 2025-26  
-- Represented Aditya College of Engineering and Technology, acting as the college voice for Unstop  
+### 💡 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Yuktha_sri_05)
 
----
+### 💻 GeeksforGeeks Stats
+![GFG Stats](https://gfg-stats.vercel.app/api?username=yukthasril9bz)
 
-## 🔗 Social & Professional Profiles
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YukthaSri-05&show_icons=true&theme=radical)
 
-**LinkedIn:** [Yuktha Sri Nunna](https://www.linkedin.com/in/yuktha-sri-nunna-8ab671302/)  
-**GitHub:** [YukthaSri-05](https://github.com/YukthaSri-05)  
-**Instagram:** [yuktha_sri_nunna](https://www.instagram.com/yuktha_sri_nunna/)  
-
-**Email:** yukthasrinunna@gmail.com  
-**Phone:** +91-8639832707  
-**Location:** Tadepalligudem, Andhra Pradesh, India – 534101  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YukthaSri-05&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukthaSri-05&layout=compact&theme=radical)  
+### Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YukthaSri-05&theme=radical)
+
+### 📚 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukthaSri-05&layout=compact&theme=radical)
